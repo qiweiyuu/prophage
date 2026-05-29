@@ -1,0 +1,11 @@
+.DS_Store
+
+# Wolfram Mathematica temporary and autosave files
+*.nb~
+*.wl~
+*.m~
+*.bak
+*.tmp
+
+# Generated local caches
+*.mx
